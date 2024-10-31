@@ -8,7 +8,7 @@ Montclair is known for its diverse and delicious food scene. Here are a few top 
 
 | Restaurant   | Cuisine       | Must-Try Dish        | Price Range |
 |--------------|---------------|----------------------|-------------|
-| Faubourg     | French        | Duck Confit         | $$$         |
+| Koreander    | Korean        | Bulgolgi            | $            |
 | Ani Ramen    | Japanese      | Spicy Miso Ramen    | $$          |
 | Raymond's    | American      | Buttermilk Pancakes | $$          |
 
