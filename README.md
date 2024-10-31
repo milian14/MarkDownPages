@@ -4,7 +4,7 @@ Welcome to my project! This project explores traveling to Montclair NJ and inclu
 
 - [Introduction](introduction.md)
 - [Why](Why.md)
-- [What to do](WTD.md)
+- [What to do](why.md)
 - [Good Eats](GoodEats.md)
 
 Feel free to click around and learn more!
