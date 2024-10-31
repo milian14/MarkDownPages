@@ -1,8 +1,8 @@
 # Good Eats in Montclair, NJ
 
-Montclair is known for its diverse and delicious food scene. Here are a few top spots:
+Montclair is known for its delicious food scene. Here are a few top spots:
 
-- **Faubourg** - French-inspired dishes with a modern twist.
+- **Koreander** - Authentic Korean food for a great price.
 - **Ani Ramen** - Known for its rich and savory ramen bowls.
 - **Raymond's** - A classic American eatery famous for brunch.
 
