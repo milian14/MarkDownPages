@@ -7,4 +7,4 @@ Montclair, NJ, is a vibrant town located just a few miles from New York City. It
 - Known for: Arts, dining, parks, location next to NYC, and variety of festivals/events it hosts.
 - Has fantastic Schools for children
 
-[Learn why Montclair is a great travel destination!](Why.md)
+[Learn why Montclair is a great travel destination!](why.md)
