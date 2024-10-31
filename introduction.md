@@ -1,6 +1,6 @@
 # Introduction to Montclair, NJ
 
-Montclair, NJ, is a vibrant town located just a few from New York City. Known for its arts scene, beautiful parks, and bustling downtown, Montclair offers a mix of urban excitement and suburban charm. 
+Montclair, NJ, is a vibrant town located just a few miles from New York City. It is widely known for its great art scene, fantastic semi-city life, fantastic food, and host to many festivals.
 
 - Population: about 39,000
 - Founded: 1868
