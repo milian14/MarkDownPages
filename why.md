@@ -7,3 +7,5 @@ Montclair is the perfect destination for a trip.
 - **Foodie Heaven**: You'll find an array of cuisines from all areas of the globe.
 
 [Explore what you can do in Montclair!](WTD.md)
+
+[Link Back to ReadMe!](README.md)
