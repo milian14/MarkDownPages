@@ -13,3 +13,5 @@ Here’s a list of popular activities and attractions in Montclair:
 | Eagle Rock Reservation      | Hiking and skyline views                | Free      |
 
 [Check out Montclair's dining options!](GoodEats.md)
+
+[Link Back to ReadMe!](README.md)
